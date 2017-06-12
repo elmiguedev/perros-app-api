@@ -1,0 +1,11 @@
+/home/migue/RepositorioGit/PerrosApp/perros-app-api/bin/Debug/netcoreapp2.0/perros-app-api.deps.json
+/home/migue/RepositorioGit/PerrosApp/perros-app-api/bin/Debug/netcoreapp2.0/perros-app-api.runtimeconfig.json
+/home/migue/RepositorioGit/PerrosApp/perros-app-api/bin/Debug/netcoreapp2.0/perros-app-api.runtimeconfig.dev.json
+/home/migue/RepositorioGit/PerrosApp/perros-app-api/obj/Debug/netcoreapp2.0/perros-app-api.csproj.CoreCompileInputs.cache
+/home/migue/RepositorioGit/PerrosApp/perros-app-api/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/migue/RepositorioGit/PerrosApp/perros-app-api/obj/Debug/netcoreapp2.0/perros-app-api.AssemblyInfo.cs
+/home/migue/RepositorioGit/PerrosApp/perros-app-api/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/home/migue/RepositorioGit/PerrosApp/perros-app-api/bin/Debug/netcoreapp2.0/perros-app-api.dll
+/home/migue/RepositorioGit/PerrosApp/perros-app-api/bin/Debug/netcoreapp2.0/perros-app-api.pdb
+/home/migue/RepositorioGit/PerrosApp/perros-app-api/obj/Debug/netcoreapp2.0/perros-app-api.dll
+/home/migue/RepositorioGit/PerrosApp/perros-app-api/obj/Debug/netcoreapp2.0/perros-app-api.pdb
